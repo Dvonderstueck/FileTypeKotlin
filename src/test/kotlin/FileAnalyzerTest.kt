@@ -1,6 +1,8 @@
 import org.junit.Test
 import org.junit.Assert.assertEquals
 import org.junit.Assert.fail
+import org.junit.Assert.assertFalse
+import org.junit.Assert.assertTrue
 
 class FileAnalyzerTest {
 
