@@ -1,5 +1,4 @@
 import java.io.File
-
 class FileAnalyzer {
 
     fun readHeader(path: String): ByteArray {
@@ -42,5 +41,3 @@ class FileAnalyzer {
         }
     }
 }
-
-
